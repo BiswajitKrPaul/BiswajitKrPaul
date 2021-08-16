@@ -17,11 +17,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 Currently working on Movie App using TMDB and Flutter
+- 🔭 Currently working on Movie App using TMDB and Flutter.
 
 - 🌱 Learning Flutter Bloc State Management and Background services. 
 
-- 👯 Looking to collaborate on Mobile App development using Flutter 
+- 👯 Looking to collaborate on Mobile App development using Flutter.
 
 - 💬 Talk to me about Flutter, Android, Java, SQL, Dart, JavaScript 
 
