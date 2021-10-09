@@ -17,7 +17,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Currently working on Movie App using TMDB and Flutter.
+- 🔭 Currently working on Chat App using Flutter and Appwrite.
 
 - 🌱 Learning Flutter Bloc State Management and Background services.
 
